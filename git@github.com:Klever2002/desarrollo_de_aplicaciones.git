@@ -1,0 +1,7 @@
+echo "# desarrollo_de_aplicaciones" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M main 
+git remoto agregar origen https://github.com/Klever2002/desarrollo_de_aplicaciones.git
+ git push -u origen principal
